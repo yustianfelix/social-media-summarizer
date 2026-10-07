@@ -147,26 +147,6 @@ social-media-summarizer/
 
 ---
 
-## 📝 License
-
-MIT License
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to submit a Pull Request.
-
----
-
-## 💬 Support
-
-For issues or questions, open an Issue on GitHub.
-
----
-
 <div align="center">
-
-Made with ❤️ by yustianfelix
 
 </div>
